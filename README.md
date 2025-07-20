@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋
-  <h1> I'm Vipul Agarwal</h1>
-<h3 align="center">B.Tech CSE Student | Data Science & ML Enthusiast | Creative Tech Explorer</h3>
+<h1 align="center">Hi 👋 I'm Vipul Agarwal</h1>
+<h3 align="center">B.Tech CSE Student | AI & ML Enthusiast | Creative Tech Explorer</h3>
 
 ---
 
@@ -9,7 +8,7 @@
 🎓 I'm currently pursuing **B.Tech in Computer Science**, specializing in **Artificial Intelligence and Machine Learning**.  
 🔬 I recently **completed a Data Analysis internship at Samatrix.io**, where I worked on real-time ML applications.  
 📊 I'm passionate about solving real-world problems through data-driven solutions and automation.  
-🚀 Currently building projects in simulation, fraud detection, and predictive analytics.
+👯 I’m open to collaborate on **open-source AI/ML projects**
 
 ---
 
@@ -22,37 +21,29 @@
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
 
 🌱 **Currently Exploring**
-- Building simulation-based ML models
-- Automating call center operations
+- Deep Learning Areas
+- Agentic AI using LangGraph
 - Learning about cloud deployment and MLOps
-
----
-
-📁 **Some Projects I'm Proud Of**
-- 📉 **Credit Card Fraud Detection** – ML classification with real-world data  
-- 📞 **Call Center Optimization** – Event-based simulation with performance analysis  
-- 📊 **Data Dashboards** – Created using Python, Pandas, and Matplotlib  
 
 ---
 
 🎯 **What I’m Looking For**
 - Open-source collaboration opportunities  
-- Internship roles in data science or machine learning  
+- Internship roles in data science or machine learning and Development 
 - Real-world projects that challenge creativity and logic  
 
 ---
 
 📫 **Let's Connect!**
 <p>
-  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:vipul.yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="(https://www.linkedin.com/in/vipul-agarwal-76571728b/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:vipulagarwal8055@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
