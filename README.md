@@ -1,35 +1,61 @@
-<h1 align="center">Hi 👋, I'm Vipul Agarwal</h1>
-<h3 align="center">A passionate ML enthusiast and aspiring data scientist from India</h3>
-
-- 🔭 Successfully completed Data Analysis Internship at Samatrix.io .
-
-- 🌱 I’m currently learning **Deep Learning**, **Langraph**, **MLOps**, **Agentic AI**.
-
-- 👯 I’m open to collaborate on **open-source AI/ML projects**
-
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/vipul-agarwal-76571728b/)** | **vipulagarwal8055@gmail.com**
-
-- ⚡ Fun fact: I love solving real-world problems using data 🚀
+<h1 align="center">Hi 👋
+  <h1> I'm Vipul Agarwal</h1>
+<h3 align="center">B.Tech CSE Student | Data Science & ML Enthusiast | Creative Tech Explorer</h3>
 
 ---
 
-### 🛠️ Languages and Tools:
+💼 **About Me**
+
+🎓 I'm currently pursuing **B.Tech in Computer Science**, specializing in **Artificial Intelligence and Machine Learning**.  
+🔬 I recently **completed a Data Analysis internship at Samatrix.io**, where I worked on real-time ML applications.  
+📊 I'm passionate about solving real-world problems through data-driven solutions and automation.  
+🚀 Currently building projects in simulation, fraud detection, and predictive analytics.
+
+---
+
+🛠️ **Languages & Tools I Use**
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
 
-<br/><br/><br/><br/><br/>
+🌱 **Currently Exploring**
+- Building simulation-based ML models
+- Automating call center operations
+- Learning about cloud deployment and MLOps
 
 ---
 
-### 📫 Let’s Connect!
+📁 **Some Projects I'm Proud Of**
+- 📉 **Credit Card Fraud Detection** – ML classification with real-world data  
+- 📞 **Call Center Optimization** – Event-based simulation with performance analysis  
+- 📊 **Data Dashboards** – Created using Python, Pandas, and Matplotlib  
+
+---
+
+🎯 **What I’m Looking For**
+- Open-source collaboration opportunities  
+- Internship roles in data science or machine learning  
+- Real-world projects that challenge creativity and logic  
+
+---
+
+📫 **Let's Connect!**
 <p>
-  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:vipul.yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:vipul.yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+---
+
+🧠 *"The best way to predict the future is to create it."* – Peter Drucker
+
