@@ -8,7 +8,7 @@
 🎓 I'm currently pursuing **B.Tech in Computer Science**, specializing in **Artificial Intelligence and Machine Learning**.  
 🔬 I recently **completed a Data Analysis internship at Samatrix.io**, where I worked on real-time ML applications.  
 📊 I'm passionate about solving real-world problems through data-driven solutions and automation.  
-👯 I’m open to collaborate on **open-source AI/ML projects**
+👯 I’m open to collaborate on **open-source AI/ML & web Development projects**
 
 ---
 
